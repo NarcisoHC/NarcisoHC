@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narciso</h1>
 <h3 align="center">I'm building AI products to accelerate renewable energy adoption</h3>
 
+- Ex-Google, ex-Zalando.
+
 - 🌱 I’m currently learning **Machine Learning Engineering topics**
 
 - 👯 I’m looking to collaborate on **AI + Renewable Energy Projects**
